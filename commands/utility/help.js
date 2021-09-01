@@ -57,7 +57,6 @@ const Embed = new Discord.MessageEmbed()
         dynamic: true
     }))
     .setDescription(Description + AllCommands.join("") + "" + "\n\n" + `[Invite Me](https://discordapp.com/oauth2/authorize?client_id=${bot.user.id}&permissions=8&scope=bot)`)
-    .setDescription(Description + AllCommands.join("") + "" + "\n\n" + `[Developer](https;//albinpraveen.ml)`)
     .setFooter(`Requested by ${message.author.username}`, bot.user.displayAvatarURL())
     .setTimestamp();
 
