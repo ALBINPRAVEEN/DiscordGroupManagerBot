@@ -56,7 +56,7 @@ const Embed = new Discord.MessageEmbed()
     .setAuthor("Commands", message.author.avatarURL({
         dynamic: true
     }))
-    .setDescription(Description + AllCommands.join("") + "" + "\n\n" + `[Developer(https://albinpraveen.ml)`)
+    .setDescription(Description + AllCommands.join("") + "" + "\n\n" + `[Developer](https://albinpraveen.ml)`)
     .setFooter(`Requested by ${message.author.username}`, bot.user.displayAvatarURL())
     .setTimestamp();
 
