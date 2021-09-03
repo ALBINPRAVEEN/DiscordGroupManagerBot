@@ -1,12 +1,12 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="bot" src="https://images.hdqwalls.com/wallpapers/neon-bot-ck.jpg?size=1024"> 
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="bot" src="https://cdn.discordapp.com/avatars/882437215140081735/08e5864b206449f73870ecae2c49c16b.webp?size=1024"> 
 
-# Adalyn AI Bot ✨
+# GROUP MANAGER Bot ✨
 
 
 
 >  A Multipurpose Discord Bot with a Music System and AI chat bot.
 
-Karma Bot is a open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) by [ALBINPRAVEEN](https://github.com/ALBINPRAVEEN).  
+Group Manager Bot is a open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) by [ALBINPRAVEEN](https://github.com/ALBINPRAVEEN).  
 
 ## Categories 📑
 - [x] ADMIN
