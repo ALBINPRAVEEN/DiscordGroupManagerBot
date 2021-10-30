@@ -24,8 +24,7 @@
     "required": "true"
   },
   "AME_API": {
-    "description": "AME_API for Image Commands. Key can be found -> https://docs.api.amethyste.moe
-AME_API for Image Commands. Key can be found -> https://docs.api.amethyste.moe",
+    "description": "AME_API for Image Commands. Key can be found -> https://docs.api.amethyste.moe",
     "required": "true"
   },
   "Website": {
